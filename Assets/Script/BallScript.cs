@@ -15,10 +15,13 @@ public class BallScript : MonoBehaviour {
         {
             Destroy(gameObject);
         }
+
 	}
 
-    void OnCollisionEnter(Collision col){
-        //Destroy(gameObject,1.0f);
-        //Debug.Log("hit");
-       }
+    //void OnCollisionEnter(Collision col){
+       // if (col.gameObject.name == "mato")
+       // {
+       //     Destroy(col.gameObject);
+       // }
+       //}
 }
