@@ -222,9 +222,9 @@ fbd6825d2c5aa76b452d9354f2b8bad1 Assembly-CSharp.dll:.VoiceModDemo_Logic
 558ebdd5c791d30ce7c6bd84adf7245b Assembly-CSharp.dll:.PlayerController
 2db25c4782f7d17f2d71bf5375fd6179 Assembly-CSharp.dll:.TestScript
 3265561905748d612a82e269d089ae02 Assembly-CSharp.dll:.LipSyncDemo_SetCurrentTarget
+c539d1a1b35951554042b8fbd72bad0e Assembly-CSharp.dll:.GameControllerScript
 17fe611912d5cd6686d4060ca87f95b2 Assembly-CSharp.dll:.OculusSpatializerUnity
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.OVRVoiceMod
 44e7dd2c847d20ccc76316d5843da831 Assembly-CSharp.dll:.OVRLipSyncTestAudio
 01a983730f96c20cc91823391ed40c4e Assembly-CSharp.dll:.OVRLipSyncContextTextureFlip
 efaacbc067f54d801b8ecfdac3af7084 Assembly-CSharp.dll:.OVRVoiceModContext
-c539d1a1b35951554042b8fbd72bad0e Assembly-CSharp.dll:.GameControllerScript
